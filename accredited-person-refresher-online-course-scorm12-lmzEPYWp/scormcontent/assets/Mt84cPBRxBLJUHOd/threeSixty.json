@@ -1,0 +1,62 @@
+{
+  "version": "3.56.26219.0",
+  "course_id": "690cbo7WF0V_course_id",
+  "title": "Appendix interactions",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6MX93bEDRQb",
+      "title": "Instructions",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6NIqiJrEPGX",
+      "title": "Scenario1",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6dMFeMaQ33n",
+      "title": "Scenario3",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "69XkhU14ekS",
+      "title": "Scenario4",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6IN9RPbup4Z",
+      "title": "Scenario5",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5dKEgAQPriA",
+      "title": "Scenario6",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6qojdfWTk37",
+      "title": "Results Slide",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5t8INrcO7ip",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": "3.36.21213.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5Wg0gSAhzmO",
+      "title": "Insects, and small pests",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5nZIxQGjsHc",
+      "title": "Mammals and others",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
